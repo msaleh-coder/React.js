@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+}
+
+.appTitle{
+    background-color: cadetblue;
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+}
+.cardStyle{
+    width: 375px;
+    background-color: chocolate;
+    box-shadow: 2px 5px 5px rgb(12, 4, 0);
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+    padding: 10px;
+   
+}
+
+.cardTitle{
+    font-size: 30px;
+    padding: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+.cardDesc{
+    font-size: 20px;
+    color: rgb(181, 181, 196);
+    padding: 15px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.careFooter{
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
